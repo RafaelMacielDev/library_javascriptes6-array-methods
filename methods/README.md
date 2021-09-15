@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="justify">
-Didactic demonstration of the main JavaScripty ES6 array methods. Credits for Digital Innovation One's Essential ES6 JavaScript module.
+Didactic demonstration of the main JavaScripty ES6 array operators. Credits for Digital Innovation One's Essential ES6 JavaScript module.
 </h3>
 
 <br>
